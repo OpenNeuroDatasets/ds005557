@@ -5,5 +5,7 @@
     "Authors": [
         "Haydn G. Herrema",
         "Michael J. Kahana"
-    ]
+    ],
+    "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital, Dartmouth-Hitchcock Medical Center, Mayo Clinic, Emory University Hospital, University of Texas Southwestern Medical Center.",
+    "License": "CC0"
 }
