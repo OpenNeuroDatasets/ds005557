@@ -10,5 +10,6 @@
     "License": "CC0",
     "Funding": [
         "DARPA RAM: N66001-14-2-4032"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005557.v1.0.0"
 }
